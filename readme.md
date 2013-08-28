@@ -20,7 +20,8 @@ The UI is intentionally plain to keep the focus on the architecture of the appli
 
 ## Set Up: ##
 
-1. Execute node install
-2. Just run
+1. npm install
 
-    node server
+## Run: ##
+
+1. node server.js
